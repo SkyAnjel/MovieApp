@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -13,7 +13,7 @@ import androidx.fragment.app.Fragment;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 
-import com.example.moviecollection.databinding.FragmentRegistrationBinding;
+import com.example.movieapp.databinding.FragmentRegistrationBinding;
 
 public class RegistrationFragment extends Fragment {
 

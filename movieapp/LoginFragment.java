@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.content.Intent;
 import android.os.Bundle;

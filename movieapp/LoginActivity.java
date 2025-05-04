@@ -10,8 +10,8 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.moviecollection.databinding.ActivityLoginBinding;
-import com.example.moviecollection.databinding.ActivityMainBinding;
+import com.example.movieapp.databinding.ActivityLoginBinding;
+import com.example.movieapp.databinding.ActivityMainBinding;
 
 public class LoginActivity extends AppCompatActivity {
 

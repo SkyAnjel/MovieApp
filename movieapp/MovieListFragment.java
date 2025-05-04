@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.os.Bundle;
 import android.text.Editable;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import com.example.moviecollection.databinding.FragmentMovieListBinding;
+import com.example.movieapp.databinding.FragmentMovieListBinding;
 import java.util.Arrays;
 import java.util.List;
 import retrofit2.Call;

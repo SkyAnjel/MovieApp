@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.moviecollection.databinding.FragmentPlanToWatchBinding;
+import com.example.movieapp.databinding.FragmentPlanToWatchBinding;
 
 import java.util.ArrayList;
 import java.util.List;

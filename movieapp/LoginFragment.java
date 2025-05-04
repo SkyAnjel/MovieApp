@@ -14,8 +14,8 @@ import androidx.fragment.app.Fragment;
 import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 
-import com.example.moviecollection.databinding.FragmentLoginBinding;
-import com.example.moviecollection.databinding.FragmentMovieListBinding;
+import com.example.movieapp.databinding.FragmentLoginBinding;
+import com.example.movieapp.databinding.FragmentMovieListBinding;
 
 public class LoginFragment extends Fragment {
 

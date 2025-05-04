@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 // Класс-модель пользователя для работы с базой данных
 public class User {

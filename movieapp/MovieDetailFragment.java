@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.bumptech.glide.Glide;
-import com.example.moviecollection.databinding.FragmentMovieDetailBinding;
+import com.example.movieapp.databinding.FragmentMovieDetailBinding;
 
 import java.util.stream.Collectors;
 

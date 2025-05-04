@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.content.Context;
 import android.content.SharedPreferences;

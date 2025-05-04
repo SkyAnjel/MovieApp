@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.moviecollection.databinding.FragmentProfileBinding;
+import com.example.movieapp.databinding.FragmentProfileBinding;
 
 public class ProfileFragment extends Fragment {
 

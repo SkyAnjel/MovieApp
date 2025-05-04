@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;

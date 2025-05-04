@@ -1,4 +1,4 @@
-package com.example.moviecollection;
+package com.example.movieapp;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -10,7 +10,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.moviecollection.databinding.ActivityMainBinding;
+import com.example.movieapp.databinding.ActivityMainBinding;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
